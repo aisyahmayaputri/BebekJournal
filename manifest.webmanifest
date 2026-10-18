@@ -1,7 +1,7 @@
 
 {
-  "name": "My Web App",
-  "short_name": "My App",
+  "name": "Diary Bebek",
+  "short_name": "Diabek",
   "description": "My personal web application",
   "start_url": "./",
   "scope": "./",
